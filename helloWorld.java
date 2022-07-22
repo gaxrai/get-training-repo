@@ -1,4 +1,4 @@
-//Java hello wor;d program
+//Java hello world program
 public static helloWorld {
     /* this is where the program starts
      * also this is a multi line comment
